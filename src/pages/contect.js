@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div>
       <h1>Contact Page</h1>
-      <p>You can find Ibas on Twitter via @Alilogic</p>
+      <p>You can find Ali on Twitter via @Alilogic</p>
     </div>
   )
 }
